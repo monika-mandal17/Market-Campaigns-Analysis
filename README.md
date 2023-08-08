@@ -8,4 +8,4 @@ Aims to know better audience to enhance better future marketing campaigns,improv
 
 Cleaned the data and analysed the data.
 
-Created report 
+Created report using power BI
